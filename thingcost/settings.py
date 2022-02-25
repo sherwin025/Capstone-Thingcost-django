@@ -60,6 +60,7 @@ CORS_ORIGIN_WHITELIST = (
     'http://localhost:3000',
     'http://127.0.0.1:3000',
     'https://thingcost.netlify.app',
+    'https://sherwin025.github.io/CapStone-ThingCost/',
 )
 
 # UPDATE THIS
