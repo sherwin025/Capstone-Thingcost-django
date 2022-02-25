@@ -1,0 +1,11 @@
+[
+    {
+        "model": "thingcostapi.userpostcomments",
+        "pk": 1,
+        "fields": {
+            "user": 1,
+            "userpostsid": 1,
+            "comment": "post comment test"
+        }
+    }
+]

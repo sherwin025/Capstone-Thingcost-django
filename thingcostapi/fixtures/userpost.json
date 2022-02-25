@@ -1,0 +1,10 @@
+[
+    {
+        "model": "thingcostapi.userpost",
+        "pk": 1,
+        "fields": {
+            "user": 1,
+            "post": "new post"
+        }
+    }
+]

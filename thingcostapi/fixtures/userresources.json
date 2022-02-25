@@ -1,0 +1,36 @@
+[
+    {
+        "model": "thingcostapi.usermoneyresources",
+        "pk": 1,
+        "fields": {
+            "description": "earn cash back shopping",
+            "url": "www.rakuten.com",
+            "user": 1
+        }
+    },{
+        "model": "thingcostapi.usermoneyresources",
+        "pk": 2,
+        "fields": {
+            "description": "find coupon codes online",
+            "url": "www.retailmenot.com",
+            "user": 1
+
+        }
+    },{
+        "model": "thingcostapi.usermoneyresources",
+        "pk": 3,
+        "fields": {
+            "description": "offering deals and discounts on a variety of services and products ",
+            "url": "www.groupon.com",
+            "user": 1
+        }
+    },{
+        "model": "thingcostapi.usermoneyresources",
+        "pk": 4,
+        "fields": {
+            "description": "earch flights accross dates and multiple companies to compare and save ",
+            "url": "www.google.com/travel/flights",
+            "user": 1
+        }
+    }
+]

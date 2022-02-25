@@ -1,0 +1,10 @@
+[
+    {
+        "model": "thingcostapi.auser",
+        "pk": 1,
+        "fields": {
+            "user": 1,
+            "hourlysalary": 20
+        }
+    }
+]

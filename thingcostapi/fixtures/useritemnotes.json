@@ -1,0 +1,10 @@
+[
+    {
+        "model": "thingcostapi.useritemnotes",
+        "pk": 1,
+        "fields": {
+            "item": 1,
+            "description": "test this note "
+        }
+    }
+]

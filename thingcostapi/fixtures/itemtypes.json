@@ -1,0 +1,57 @@
+[
+    {
+        "model": "thingcostapi.itemtype",
+        "pk": 1,
+        "fields": {
+            "label": "shoes"
+        }
+    },{
+        "model": "thingcostapi.itemtype",
+        "pk": 2,
+        "fields": {
+            "label": "appliance"
+        }
+    },{
+        "model": "thingcostapi.itemtype",
+        "pk": 3,
+        "fields": {
+            "label": "electronic"
+        }
+    },{
+        "model": "thingcostapi.itemtype",
+        "pk": 4,
+        "fields": {
+            "label": "toys"
+        }
+    },{
+        "model": "thingcostapi.itemtype",
+        "pk": 5,
+        "fields": {
+            "label": "entertainment"
+        }
+    },{
+        "model": "thingcostapi.itemtype",
+        "pk": 6,
+        "fields": {
+            "label": "bills"
+        }
+    },{
+        "model": "thingcostapi.itemtype",
+        "pk": 7,
+        "fields": {
+            "label": "credit cards"
+        }
+    },{
+        "model": "thingcostapi.itemtype",
+        "pk": 8,
+        "fields": {
+            "label": "food"
+        }
+    },{
+        "model": "thingcostapi.itemtype",
+        "pk": 9,
+        "fields": {
+            "label": "work"
+        }
+    }
+]

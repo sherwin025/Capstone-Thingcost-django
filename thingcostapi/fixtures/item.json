@@ -1,0 +1,17 @@
+[
+    {
+        "model": "thingcostapi.item",
+        "pk": 1,
+        "fields": {
+            "useritemtype": 1,
+            "price": 20,
+            "name": "car",
+            "need": false,
+            "user": 1,
+            "hoursneeded": 20,
+            "buydifficulty": 1,
+            "purchased": false,
+            "purchaseby": "2022-05-01"
+        }
+    }
+]

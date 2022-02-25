@@ -1,0 +1,21 @@
+[
+    {
+        "model": "thingcostapi.buydifficulty",
+        "pk": 1,
+        "fields": {
+            "label": "Easy"
+        }
+    },{
+        "model": "thingcostapi.buydifficulty",
+        "pk": 2,
+        "fields": {
+            "label": "Medium"
+        }
+    },{
+        "model": "thingcostapi.buydifficulty",
+        "pk": 3,
+        "fields": {
+            "label": "Hard"
+        }
+    }
+]

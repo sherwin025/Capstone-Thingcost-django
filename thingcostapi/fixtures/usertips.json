@@ -1,0 +1,73 @@
+[
+    {
+        "model": "thingcostapi.usertipsandtricks",
+        "pk": 1,
+        "fields": {
+            "user": 1,
+            "description": "Learn to budget and understand your finances"
+        }
+    },{
+        "model": "thingcostapi.usertipsandtricks",
+        "pk": 2,
+        "fields": {
+            "user": 1,
+            "description": "Get out of debt!!!!"
+        }
+    },{
+        "model": "thingcostapi.usertipsandtricks",
+        "pk": 3,
+        "fields": {
+            "user": 1,
+            "description": "research  50/30/20 rule"
+        }
+    },{
+        "model": "thingcostapi.usertipsandtricks",
+        "pk": 4,
+        "fields": {
+            "user": 1,
+            "description": "Create a designated savings and spending account"
+        }
+    },{
+        "model": "thingcostapi.usertipsandtricks",
+        "pk": 5,
+        "fields": {
+            "user": 1,
+            "description": "automate your savings and bills"
+        }
+    },{
+        "model": "thingcostapi.usertipsandtricks",
+        "pk": 6,
+        "fields": {
+            "user": 1,
+            "description": "cut back and control your utility bills"
+        }
+    },{
+        "model": "thingcostapi.usertipsandtricks",
+        "pk": 7,
+        "fields": {
+            "user": 1,
+            "description": "Side Hustles!!!"
+        }
+    },{
+        "model": "thingcostapi.usertipsandtricks",
+        "pk": 8,
+        "fields": {
+            "user": 1,
+            "description": "Check for and cancel unused subscriptions"
+        }
+    },{
+        "model": "thingcostapi.usertipsandtricks",
+        "pk": 9,
+        "fields": {
+            "user": 1,
+            "description": "Use this app before splurging!"
+        }
+    },{
+        "model": "thingcostapi.usertipsandtricks",
+        "pk": 10,
+        "fields": {
+            "user": 1,
+            "description": "control and analyze your grocery spending"
+        }
+    }
+]

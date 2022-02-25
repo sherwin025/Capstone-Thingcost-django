@@ -1,0 +1,10 @@
+[
+    {
+        "model": "thingcostapi.itemraking",
+        "pk": 1,
+        "fields": {
+            "item": 1,
+            "ranking": 1
+        }
+    }
+]

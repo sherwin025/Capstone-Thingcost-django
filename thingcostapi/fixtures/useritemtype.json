@@ -1,0 +1,66 @@
+[
+    {
+        "model": "thingcostapi.useritemtypes",
+        "pk": 1,
+        "fields": {
+            "description": "shoes",
+            "user": 1 
+        }
+    },{
+        "model": "thingcostapi.useritemtypes",
+        "pk": 2,
+        "fields": {
+            "description": "appliance",
+            "user": 1 
+        }
+    },{
+        "model": "thingcostapi.useritemtypes",
+        "pk": 3,
+        "fields": {
+            "description": "electronic",
+            "user": 1 
+        }
+    },{
+        "model": "thingcostapi.useritemtypes",
+        "pk": 4,
+        "fields": {
+            "description": "toys",
+            "user": 1 
+        }
+    },{
+        "model": "thingcostapi.useritemtypes",
+        "pk": 5,
+        "fields": {
+            "description": "entertainment",
+            "user": 1 
+        }
+    },{
+        "model": "thingcostapi.useritemtypes",
+        "pk": 6,
+        "fields": {
+            "description": "bills",
+            "user": 1 
+        }
+    },{
+        "model": "thingcostapi.useritemtypes",
+        "pk": 7,
+        "fields": {
+            "description": "credit cards",
+            "user": 1 
+        }
+    },{
+        "model": "thingcostapi.useritemtypes",
+        "pk": 8,
+        "fields": {
+            "description": "food",
+            "user": 1 
+        }
+    },{
+        "model": "thingcostapi.useritemtypes",
+        "pk": 9,
+        "fields": {
+            "description": "work",
+            "user": 1 
+        }
+    }
+]
