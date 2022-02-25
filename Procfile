@@ -1,0 +1,1 @@
+web: gunicorn thingcost.wsgi --log-file -
